@@ -1,2 +1,2 @@
 # ML
-This is about Machine Learning Projects
+This repository is about Machine Learning Projects
